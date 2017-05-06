@@ -177,4 +177,9 @@ A few pointers on `.gitignore`:
 + `.gitignore` files can be stored anywhere and will operate using relative filepaths based on their location in the directory.
 
 
+### Markdown and readme Files
+
+Any file in markdown format and ending in `.md` or `.MD` can be easily rendered by GitHub.com. Users are encouraged to use this format for easy communication and documentation.
+
+Any file named `readme.md` on GitHub.com will be automatically rendered when visiting the directory on GitHub.com.
 
